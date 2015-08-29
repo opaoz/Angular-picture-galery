@@ -1,0 +1,15 @@
+.pictures {
+    width: 600px;
+    position: relative;
+}
+.pictures img {
+    position: absolute;
+    width: 100%;
+    -webkit-transition: all 1s linear;
+    transition: all 1s linear;
+}
+.pictures img.ng-hide {
+    opacity: 0;
+    -webkit-transition: all 1s linear;
+    transition: all 1s linear;
+}

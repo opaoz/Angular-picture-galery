@@ -1,0 +1,14 @@
+{
+    "name": "Angular picture galery",
+  "description": "Angular picture galery",
+  "dependencies": {
+    "angular": "~1.4.5",
+    "angular-animate": "~1.4.5"  
+  },
+  "ignore": [
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
